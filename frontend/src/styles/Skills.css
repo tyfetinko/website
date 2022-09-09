@@ -1,0 +1,20 @@
+.wrapper {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,33% );
+    grid-gap: 5px;
+    grid-template-rows: repeat(2);  
+    color: white;
+    background-color: #3e497a;
+  }
+
+  ul li{
+    float: left;
+    width: 50%;}
+    
+ul{
+    list-style-type: none;
+}
+h3{
+    text-align: center;
+}
