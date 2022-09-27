@@ -1,18 +1,16 @@
 import X691Home from "../assets/X691Home.png"
 import ecommerceStore from "../assets/ecommerceStore.PNG"
-import Scheduler from "../assets/tasktracker.PNG"
+import tasktracker from "../assets/tasktracker.PNG"
+import ToDoList from "../assets/ToDoList.PNG"
+import api from "../assets/3rdParty.PNG";
+import hockey from "../assets/ecommerce.PNG"
+
 export const ProjectList = [
   {
     name: "X691 Website",
     title: "Full Stack Developer",
     image: X691Home,
     skills: "Angular,TypeScript,Firebase",
-  },
-  {
-    name: "Farmers Market",
-    title: "Full Stack Developer",
-    //image: Proj1,
-    skills: "React,Node.js,MongoDB",
   },
   {
     name: "Mock Ecommerce Platform",
@@ -23,7 +21,27 @@ export const ProjectList = [
   {
     name: "Task Scheduler",
     title: "Full Stack Developer",
-    image: Scheduler,
+    image: tasktracker,
     skills: "Angular.js,TypeScript",
   },
+  {
+    name: "To Do List",
+    title: "Full Stack Developer",
+    image: ToDoList,
+    skills: "React.js JavaScript",
+  },
+  {
+    name: "Display 3rd party data w/API",
+    title: "Front End Developer",
+    image: api,
+    skills: "React.js ",
+  },
+  {
+    name: "Hockey Store",
+    title: "Front End Developer",
+    image: hockey,
+    skills: "React.js TypeScript ",
+  },
+
+
 ];
