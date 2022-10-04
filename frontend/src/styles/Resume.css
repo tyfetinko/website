@@ -1,0 +1,12 @@
+.home {
+    width: 100%;
+    align-items: center;
+    font-family: "Arial", sans-serif;
+    color: #3e497a;
+   
+  }
+  p{ padding-left: 50px;
+    padding-right: 50px;}
+  a{
+    font-family: "Arial", sans-serif;
+  }
