@@ -43,11 +43,12 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Dalhousie University, Halifax, Nova Scotia
+          Bachelor's of Applied Computer Science Degree
+            
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
-            Bachelor's of Applied Computer Science Degree
+          Dalhousie University, Halifax, Nova Scotia
           </h4>
 
           <p> Computer Science</p>

@@ -14,7 +14,6 @@ function Footer() {
         <a href="https://github.com/tyfetinko">  <GithubIcon /></a>
         
       </div>
-      <p> &copy; 2022</p>
     </div>
   )
 }
