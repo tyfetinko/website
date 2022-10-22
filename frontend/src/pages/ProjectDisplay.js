@@ -8,8 +8,6 @@ function ProjectDisplay() {
   const { id } = useParams();
   const project = ProjectList[id];
 
-
-
   return (
     <div className="project">
       <h1> {project.name}  &#40;{project.title}&#41;</h1>
@@ -18,7 +16,8 @@ function ProjectDisplay() {
         <b>Skills:</b> {project.skills} <br/>
         {project.link}
       </p>
-      <GitHubIcon href=""/>
+      <a href={project.gitlink} target="_blank" rel="noreferrer"><GitHubIcon/></a>
+      
     </div>
   );
 }

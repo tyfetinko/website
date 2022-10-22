@@ -8,11 +8,11 @@ function Projects() {
   return (
     <div className="projects">
       <h1> Previous Projects</h1>
-      <span>Some GitHub Links are unavailable due to NDA agreements</span>
+      <span>Some GitHub Links are unavailable.</span>
       <div className="projectList">
         {ProjectList.map((project, idx) => {
           return (
-            <ProjectItem id={idx} name={project.name} image={project.image} link={project.link} />
+            <ProjectItem id={idx} name={project.name} image={project.image} link={project.link}  github={project.gitlink} />
           );
         })}
  

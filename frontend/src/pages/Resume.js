@@ -11,9 +11,7 @@ function Resume() {
              motivated attitude and a variety of powerful skills. Committed to utilizing my skills <br/>
              to further the mission of a company.  </p>
 
-        <p><a href={resume} target="_blank">Click here</a> to access my resume.</p>
-
-        
+        <p><a href={resume} target="_blank" rel="noreferrer">Click here</a> to access my resume.</p>
     </div>
   )
 }
