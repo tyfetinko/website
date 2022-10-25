@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/website/frontend/static/css/main.63c56eb5.css",
-    "main.js": "/website/frontend/static/js/main.fda53530.js",
-    "static/js/787.cda612ba.chunk.js": "/website/frontend/static/js/787.cda612ba.chunk.js",
-    "static/media/Outreach.PNG": "/website/frontend/static/media/Outreach.d6a2756258d023324af5.PNG",
-    "static/media/ecommerce.PNG": "/website/frontend/static/media/ecommerce.443808799aa4d23484c1.PNG",
-    "static/media/ecommerceStore.PNG": "/website/frontend/static/media/ecommerceStore.5888c7b17cd16b3bbd69.PNG",
-    "static/media/ToDoList.PNG": "/website/frontend/static/media/ToDoList.270859135e5555a44cff.PNG",
-    "static/media/3rdParty.PNG": "/website/frontend/static/media/3rdParty.dc33771e4dc67c29db12.PNG",
-    "static/media/Resume.pdf": "/website/frontend/static/media/Resume.a6250f83d49be276fd5c.pdf",
-    "static/media/CRUD.PNG": "/website/frontend/static/media/CRUD.1d34e5f8f91464d2a6dd.PNG",
-    "static/media/tasktracker.PNG": "/website/frontend/static/media/tasktracker.63820c655576521bfe5a.PNG",
-    "index.html": "/website/frontend/index.html",
-    "main.63c56eb5.css.map": "/website/frontend/static/css/main.63c56eb5.css.map",
-    "main.fda53530.js.map": "/website/frontend/static/js/main.fda53530.js.map",
-    "787.cda612ba.chunk.js.map": "/website/frontend/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/website/frontend/src/static/css/main.63c56eb5.css",
+    "main.js": "/website/frontend/src/static/js/main.44eb9bbe.js",
+    "static/js/787.cda612ba.chunk.js": "/website/frontend/src/static/js/787.cda612ba.chunk.js",
+    "static/media/Outreach.PNG": "/website/frontend/src/static/media/Outreach.d6a2756258d023324af5.PNG",
+    "static/media/ecommerce.PNG": "/website/frontend/src/static/media/ecommerce.443808799aa4d23484c1.PNG",
+    "static/media/ecommerceStore.PNG": "/website/frontend/src/static/media/ecommerceStore.5888c7b17cd16b3bbd69.PNG",
+    "static/media/ToDoList.PNG": "/website/frontend/src/static/media/ToDoList.270859135e5555a44cff.PNG",
+    "static/media/3rdParty.PNG": "/website/frontend/src/static/media/3rdParty.dc33771e4dc67c29db12.PNG",
+    "static/media/Resume.pdf": "/website/frontend/src/static/media/Resume.a6250f83d49be276fd5c.pdf",
+    "static/media/CRUD.PNG": "/website/frontend/src/static/media/CRUD.1d34e5f8f91464d2a6dd.PNG",
+    "static/media/tasktracker.PNG": "/website/frontend/src/static/media/tasktracker.63820c655576521bfe5a.PNG",
+    "index.html": "/website/frontend/src/index.html",
+    "main.63c56eb5.css.map": "/website/frontend/src/static/css/main.63c56eb5.css.map",
+    "main.44eb9bbe.js.map": "/website/frontend/src/static/js/main.44eb9bbe.js.map",
+    "787.cda612ba.chunk.js.map": "/website/frontend/src/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63c56eb5.css",
-    "static/js/main.fda53530.js"
+    "static/js/main.44eb9bbe.js"
   ]
 }
