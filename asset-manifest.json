@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.63c56eb5.css",
-    "main.js": "/frontend/static/js/main.6e01932b.js",
-    "static/js/787.cda612ba.chunk.js": "/frontend/static/js/787.cda612ba.chunk.js",
-    "static/media/Outreach.PNG": "/frontend/static/media/Outreach.d6a2756258d023324af5.PNG",
-    "static/media/ecommerce.PNG": "/frontend/static/media/ecommerce.443808799aa4d23484c1.PNG",
-    "static/media/ecommerceStore.PNG": "/frontend/static/media/ecommerceStore.5888c7b17cd16b3bbd69.PNG",
-    "static/media/ToDoList.PNG": "/frontend/static/media/ToDoList.270859135e5555a44cff.PNG",
-    "static/media/3rdParty.PNG": "/frontend/static/media/3rdParty.dc33771e4dc67c29db12.PNG",
-    "static/media/Resume.pdf": "/frontend/static/media/Resume.a6250f83d49be276fd5c.pdf",
-    "static/media/CRUD.PNG": "/frontend/static/media/CRUD.1d34e5f8f91464d2a6dd.PNG",
-    "static/media/tasktracker.PNG": "/frontend/static/media/tasktracker.63820c655576521bfe5a.PNG",
-    "index.html": "/frontend/index.html",
-    "main.63c56eb5.css.map": "/frontend/static/css/main.63c56eb5.css.map",
-    "main.6e01932b.js.map": "/frontend/static/js/main.6e01932b.js.map",
-    "787.cda612ba.chunk.js.map": "/frontend/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/website/static/css/main.63c56eb5.css",
+    "main.js": "/website/static/js/main.94ffd439.js",
+    "static/js/787.cda612ba.chunk.js": "/website/static/js/787.cda612ba.chunk.js",
+    "static/media/Outreach.PNG": "/website/static/media/Outreach.d6a2756258d023324af5.PNG",
+    "static/media/ecommerce.PNG": "/website/static/media/ecommerce.443808799aa4d23484c1.PNG",
+    "static/media/ecommerceStore.PNG": "/website/static/media/ecommerceStore.5888c7b17cd16b3bbd69.PNG",
+    "static/media/ToDoList.PNG": "/website/static/media/ToDoList.270859135e5555a44cff.PNG",
+    "static/media/3rdParty.PNG": "/website/static/media/3rdParty.dc33771e4dc67c29db12.PNG",
+    "static/media/Resume.pdf": "/website/static/media/Resume.a6250f83d49be276fd5c.pdf",
+    "static/media/CRUD.PNG": "/website/static/media/CRUD.1d34e5f8f91464d2a6dd.PNG",
+    "static/media/tasktracker.PNG": "/website/static/media/tasktracker.63820c655576521bfe5a.PNG",
+    "index.html": "/website/index.html",
+    "main.63c56eb5.css.map": "/website/static/css/main.63c56eb5.css.map",
+    "main.94ffd439.js.map": "/website/static/js/main.94ffd439.js.map",
+    "787.cda612ba.chunk.js.map": "/website/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63c56eb5.css",
-    "static/js/main.6e01932b.js"
+    "static/js/main.94ffd439.js"
   ]
 }
