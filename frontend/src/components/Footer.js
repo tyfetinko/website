@@ -7,8 +7,8 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://www.linkedin.com/in/tyfetinko/"><LinkedInIcon /></a>
-        <a href="https://github.com/tyfetinko">  <GithubIcon /></a>
+        <a href="https://www.linkedin.com/in/tyfetinko/" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
+        <a href="https://github.com/tyfetinko" target="_blank" rel="noreferrer">  <GithubIcon /></a>
         
       </div>
     </div>
