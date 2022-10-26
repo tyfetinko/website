@@ -13,7 +13,7 @@ import Resume from "./pages/Resume";
 function App() {
   return (
     <div className="App">
-      <h2>here</h2>
+    
       <Router>
         <Navbar />
         <Routes>
