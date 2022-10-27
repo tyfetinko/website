@@ -11,6 +11,7 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1> {project.name}  &#40;{project.title}&#41;</h1>
+      <h4>This project was:{project.group}</h4>
       <img src={project.image} alt=" not available" />
       <p>
         <b>Skills:</b> {project.skills} <br/>
