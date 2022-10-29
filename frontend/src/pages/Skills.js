@@ -55,17 +55,17 @@ function Skills() {
                 <h3>Tools</h3>
                 <ul className='wrapper-2'>
                     <li>Git</li>
-                    <li>Visual Studio</li>
-                    <li>Andriod Studio</li>
-                    <li>Microsoft Office</li>
-                    <li>Microsoft Teams</li>
-                    <li>Slack</li>
+                    <li>Visual Studio</li>            
                     <li>IntelliJ</li>
                     <li>Postman</li>
                     <li>Linux</li>
                     <li>MAMP</li>
                     <li>FileZilla</li>
                     <li>Unity</li>
+                    <li>Microsoft Teams</li>
+                    <li>Slack</li>
+                    <li>Andriod Studio</li>
+                    <li>Microsoft Office</li>
                 </ul>
                 <h3>APIs</h3>
                     <ul>REST</ul>

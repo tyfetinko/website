@@ -15,12 +15,11 @@ function ProjectDisplay() {
       <img src={project.image} alt=" not available" />
       <p>
         <b>Skills:</b> {project.skills} <br/>
-        {project.link}
+        {project.link} 
       </p>
       <a href={project.gitlink} target="_blank" rel="noreferrer"><GitHub/></a>
       
     </div>
   );
 }
-
 export default ProjectDisplay;

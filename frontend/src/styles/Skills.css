@@ -1,3 +1,7 @@
+body{
+  margin-bottom: 5%;
+}
+
 .wrapper {
     width: 100%;
     display: grid;
@@ -7,15 +11,16 @@
     color: white;
     background-color: #3e497a;
     text-align: center;
+    justify-items: center;
   }
   ul {
     
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(190px, 130px));
-    grid-gap: 5px;
+    grid-template-rows: 20px 10px ;
+    grid-template-columns: 135px 175px;
+    grid-gap: 25px;
+    justify-items: center;
     background-color: #3e497a;
-    text-align: center;
-    align-items: center;
     list-style-type: none;
   }
 
@@ -25,11 +30,19 @@
 h3{
     text-align: center;
 }
-.nonTechnical ul{
-    grid-template-columns: repeat(auto-fit, minmax(950px, 130px));
+.nonTechnical >ul {
+  grid-template-rows: repeat(auto-fit, minmax(15px, 30px));
+  grid-template-columns: repeat(auto-fit, minmax(600px, 300px));
 }
 
-@media  (max-width: 650px) {
+@media  (max-width: 550px) {
+  body{
+    margin: 0%;
+    padding: 0%;
+    border: 0ch;
+    display:grid;
+  }
+  
     .wrapper {
         width: 100%;
         display: grid;
@@ -60,7 +73,7 @@ h3{
         width: 100%;
     }
     .nonTechnical ul{
-        grid-template-columns: repeat(auto-fit, minmax(970px, 130px));
+        grid-template-columns: repeat(auto-fit, minmax(500px, 130px));
     }
  
 }

@@ -5,6 +5,7 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import {School,Work} from '@mui/icons-material';
+import '../styles/Experience.css';
 
 function Experience() {
   return (
@@ -13,6 +14,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element-title"
           date="2015 - 2022"
+          dateClassName="date"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<Work/>}
         >
@@ -23,7 +25,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2016 - 2022"
+          date="2017 - 2022"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<Work />}
         >

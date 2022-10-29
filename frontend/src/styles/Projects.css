@@ -1,5 +1,7 @@
 .projects {
     width: 100%;
+    background-color: #3e497a;
+    color:white;
     height: auto;
     display: flex;
     justify-content: center;
