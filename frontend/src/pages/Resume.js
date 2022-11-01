@@ -12,6 +12,9 @@ function Resume() {
              motivated attitude and a variety of powerful skills. Committed to utilizing my skills <br/>
              to further the mission of a company.  </p>
 
+
+        <span><b>Vaccinated</b></span>
+
         <p><a href={resume} target="_blank" rel="noreferrer" className='link'>Click here</a> to access my resume.</p>
     </div>
   )

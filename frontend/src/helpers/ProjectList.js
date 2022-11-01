@@ -15,7 +15,7 @@ export const ProjectList = [
     image: outreach,
     skills: "Angular,TypeScript, Firebase",
     link:"https://outreach.cs.dal.ca/",
-    gitlink: "",
+    gitlink: "https://github.com/tyfetinko/CSCIX691-website",
   },{
     name: "Farmers Market Store CRUD Application",
     group: "Solo",

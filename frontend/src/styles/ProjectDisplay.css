@@ -5,7 +5,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-bottom: 10%;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    
   }
   
   .project h1 {

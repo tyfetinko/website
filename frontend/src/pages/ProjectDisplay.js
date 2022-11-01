@@ -11,11 +11,11 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1> {project.name}  &#40;{project.title}&#41;</h1>
-      <h4>This project was:{project.group}</h4>
+      <h4>This project was: {project.group}</h4>
       <img src={project.image} alt=" not available" />
       <p>
         <b>Skills:</b> {project.skills} <br/>
-        {project.link} 
+        <a href={project.link} target="_blank" rel="noreferrer">{project.link} </a>
       </p>
       <a href={project.gitlink} target="_blank" rel="noreferrer"><GitHub/></a>
       
