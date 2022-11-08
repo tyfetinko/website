@@ -8,11 +8,12 @@
   height: 11%; 
   background-color:#21325e;
     
+  padding-bottom: 5px;
   }
   
   .socialMedia svg {
     color: white;
-    padding-top: 50px;
+    padding-top: 25px;
     font-size: 70px;
     cursor: pointer;
   }
@@ -25,4 +26,10 @@
     .footer svg {
       font-size: 50px;
     }
+  }
+  @media only screen and (max-width: 1000px) {
+    .footer svg {
+      font-size: 50px;
+    }
+    
   }

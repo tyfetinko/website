@@ -81,7 +81,7 @@ h3{
 
 
 
-@media  (max-width: 550px) /*ipad*/{
+@media  (max-width: 1000px) /*ipad*/{
   body{
     margin: 0%;
     padding: 0%;
